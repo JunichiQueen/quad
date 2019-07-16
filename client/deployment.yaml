@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: client
-        image: bobcrutchley/quad-client:latest
+        image: manthalion123/quad-client:latest
         ports:
         - containerPort: 3000
